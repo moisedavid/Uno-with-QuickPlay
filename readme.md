@@ -69,3 +69,5 @@ If a player lays down a card out of turn, they must draw two cards.
 
 --------------------------------------OBJECTIVE---------------------------------------------------- 
 A player wins by having no more cards left in their hand.
+
+Rules pulled from https://en.wikipedia.org/wiki/Uno_(card_game).
